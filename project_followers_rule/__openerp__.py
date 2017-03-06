@@ -32,7 +32,8 @@
     "license": "AGPL-3",
     "depends": [
         "base",
-        "hr"
+        "hr",
+        "project",
     ],
     "demo": [
         "demo/project_task_demo.xml"
